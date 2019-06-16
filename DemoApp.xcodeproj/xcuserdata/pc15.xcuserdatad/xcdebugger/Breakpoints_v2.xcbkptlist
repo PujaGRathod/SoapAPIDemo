@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoApp/UIKit+AFNetworking/ViewController.swift"
+            timestampString = "580714880.299278"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "callJuniperAPI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoApp/UIKit+AFNetworking/ViewController.swift"
+            timestampString = "580714880.299886"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "callJuniperAPI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoApp/UIKit+AFNetworking/ViewController.swift"
+            timestampString = "580714880.300277"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "callJuniperAPI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoApp.ViewController.callJuniperAPI() -&gt; ()"
+                  moduleName = "DemoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pc15/Documents/Puja/Demo/DemoData/MyDemos/SOAPXMLApiDemos/SoapAPIDemo/DemoApp/UIKit+AFNetworking/ViewController.swift"
+                  timestampString = "580714883.781778"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "2017">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.AFHTTPRequestOperation, Any) -&gt; () in DemoApp.ViewController.callJuniperAPI() -&gt; ()"
+                  moduleName = "DemoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pc15/Documents/Puja/Demo/DemoData/MyDemos/SOAPXMLApiDemos/SoapAPIDemo/DemoApp/UIKit+AFNetworking/ViewController.swift"
+                  timestampString = "580714883.784"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "266">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoApp/UIKit+AFNetworking/ViewController.swift"
+            timestampString = "580714880.300627"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "callJuniperAPI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoApp.ViewController.callJuniperAPI() -&gt; ()"
+                  moduleName = "DemoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pc15/Documents/Puja/Demo/DemoData/MyDemos/SOAPXMLApiDemos/SoapAPIDemo/DemoApp/UIKit+AFNetworking/ViewController.swift"
+                  timestampString = "580714883.790305"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "2017">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.AFHTTPRequestOperation, Any) -&gt; () in DemoApp.ViewController.callJuniperAPI() -&gt; ()"
+                  moduleName = "DemoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pc15/Documents/Puja/Demo/DemoData/MyDemos/SOAPXMLApiDemos/SoapAPIDemo/DemoApp/UIKit+AFNetworking/ViewController.swift"
+                  timestampString = "580714883.792351"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "266">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoApp/UIKit+AFNetworking/ViewController.swift"
+            timestampString = "580714885.92831"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "callJuniperAPI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoApp/UIKit+AFNetworking/ViewController.swift"
+            timestampString = "580714906.703926"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "clickSubmit(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
